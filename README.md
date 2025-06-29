@@ -1,4 +1,4 @@
-# REDCap User Acceptance Testing – CRP 109 Exam Project
+# REDCap User Acceptance Testing
 
 This repository documents the **User Acceptance Testing (UAT)** and subsequent **corrections** of an existing REDCap project titled **"CRP 109 Exam Adnan"**. The project was originally provided with intentional design flaws and configuration issues for academic review and repair.
 
